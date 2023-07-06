@@ -1,0 +1,12 @@
+Body{
+    background-Image:linear-gradient(to left,rgb(15, 2, 65),rgba(140, 156, 250, 0.925) ,rgb(26, 1, 56));
+color:white;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius:20%;
+    background-color:darkgray;
+
+}
